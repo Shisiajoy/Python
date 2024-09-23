@@ -28,6 +28,3 @@ with open('nytimes.csv', 'w', newline='') as file:
     writer.writeheader()
     writer.writerows(data)
 
-
-#tried running the code you provided on slack but it wasnt giving an output
-#so i made some changes to the url and used try except to catch errors,but in the cvs filemit prints the error message 'no tittle file' in place of tittle
