@@ -12,5 +12,5 @@ A collection of Python projects and coding challenges focused on mastering core 
    
 4. libraryOop.py: An object-oriented Python program that manages a simple library system.
    
-5. temp_converter.py: A script to convert temperatures between Celsius, Fahrenheit, and Kelvin.
+5. temp_converter.py: A script to convert temperatures between Celsius and Fahrenheit.
 
